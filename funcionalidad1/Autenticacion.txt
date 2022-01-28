@@ -1,1 +1,5 @@
 Desarrollo de la autenticacion
+
+Comunicacion con Home
+
+autenticacion finalizada
